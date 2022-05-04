@@ -2,10 +2,6 @@
 
 pragma solidity ^0.8.0;
 
-import "../interfaces/IVault.sol";
-import "../interfaces/IVaultFactory.sol";
-import "../interfaces/IVaultManager.sol";
-import "../interfaces/IERC20Minimal.sol";
 import "./libraries/NFTSVG.sol";
 import "@openzeppelin/contracts/utils/Strings.sol";
 
